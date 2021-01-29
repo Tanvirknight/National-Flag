@@ -1,0 +1,31 @@
+/*Tanvir Sharif*/
+.body{
+	display: flex;
+	margin: 50px 30px 50px;
+	justify-content: center;
+ 
+}
+.flag_border{
+	border-style: solid;
+  	border-width: thin;
+  	display: inline-flex;
+}
+
+.color_blue{
+	background-color: blue;
+	width: 167px;
+	height: 300px;
+
+}
+.color_white{
+	background-color: white;
+	width: 167px;
+	height: 300px;
+	 
+}
+.color_red{
+	background-color: red;
+	width: 167px;
+	height: 300px;
+ 
+}

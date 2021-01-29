@@ -1,0 +1,16 @@
+/*Tanvir Sharif*/
+.div_t1{
+	background-color: green;
+	width: 500px;
+	height: 300px;
+	margin: 50px auto;
+	overflow: hidden;
+}
+.div_t2{
+	background-color: red;
+	border-radius: 50%;
+	height: 230px;
+	width: 250px;
+	margin: 26px auto;
+	padding-top: 20px;
+}
